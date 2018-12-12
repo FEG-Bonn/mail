@@ -1,0 +1,4 @@
+2018-12-12T13:13:48+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 18.9.0 (/home/arthuro555/django/bin/python3 3.6.0) starting up.
+2018-12-12T13:13:48+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2018-12-12T13:13:48+0000 [-] FTPFactory starting on 2121
+2018-12-12T13:13:48+0000 [twisted.protocols.ftp.FTPFactory#info] Starting factory <twisted.protocols.ftp.FTPFactory object at 0x7f03ab20cc88>
